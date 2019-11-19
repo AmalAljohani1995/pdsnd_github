@@ -2,7 +2,7 @@ import time
 import pandas as pd
 import numpy as np
 
-# loading data
+# loading data for cities
 CITY_DATA = {
     'chicago':'chicago.csv',
     'new york city':'new_york_city.csv',
@@ -22,8 +22,10 @@ def city_input():
     print('New York: 2')
     print('Washington: 3')
     print(' ')
+    #get input from user and store it in city varible
     city = input('select city to see Some statistical data ')
     city = city.lower()
+    #create loop to know which city will analysis
     while True:
             if city == '1' or city == 'chicago':
                 print("\n you select chicago city \n")
