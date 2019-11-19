@@ -14,15 +14,15 @@ def city_input():
     This function starts the user interface by introduction and
     asking the user with the city he/she wants to analyze
     '''
-    print('Hello! Let\'s explore some US bikeshare data!')
+    print('Hello! Let\'s explore some  of US bikeshare data!')
     print(' ')
     # get user input for city (chicago, new york city, washington).
-    print('would you see data for :')
+    print('would you like to see data for :')
     print('Chicago: 1')
     print('New York: 2')
     print('Washington: 3')
     print(' ')
-    city = input('select city to see result of analysis ')
+    city = input('select city to see Some statistical data ')
     city = city.lower()
     while True:
             if city == '1' or city == 'chicago':
