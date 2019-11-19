@@ -1,15 +1,3 @@
-### Date created
-Include the date you created this project and README file.
+####Udacity-Project-Bike-Share-Analysis
 
-### Project Title
-Replace the Project Title
-
-### Description
-Describe what your project is about and what it does
-
-### Files used
-Include the files used
-
-### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
-
+In this project we provide some of statistical data like Popular times of travel , Popular stations and trip , Trip duration and User info .We cover three cities in our project: new york , chicago and washegnton .
