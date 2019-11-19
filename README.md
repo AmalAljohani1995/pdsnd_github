@@ -7,3 +7,12 @@ In this project we provide some of statistical data like Popular times of travel
 1- Install Python version 3.x
 2- Install Git
 3- Have a code editor
+
+###Contents
+The contents of the project are:
+
+#bikeshare.py -  The main file to run this project
+You can get the dataset for this project from this location. It contains data for three cities.
+
+#chicago.csv
+#washington.csv
